@@ -144,13 +144,13 @@ ul {
 }
 
 .features-list-text {
-  line-height: 1.5px;
+  line-height: 1.5;
 }
 
 /*===Team===*/
 
 .team {
-  background: var(--WHITE, #FFF);
+  background-color: #F4F4FD;
 }
 
 .team-title {
@@ -165,11 +165,11 @@ ul {
 
 .team-list {}
 
-.team-list-item {}
-
-.team-image {
-  background: var(--WHITE, #FFF);
+.team-list-item {
+  background-color: #FFFFFF
 }
+
+.team-image {}
 
 .team-image-name {
   color: var(--NAVY-BLUE, #2E2F42);
@@ -181,7 +181,7 @@ ul {
 }
 
 .team-list-text {
-  line-height: 1.5px;
+  line-height: 1.5;
   text-align: center;
 }
 
